@@ -1,5 +1,5 @@
 from turtle import Turtle
-DIMENSIONS= [(0, 0), (-20, 0), (-40, 0),(-60,0),(-80,0),(-100,0),(120,0),(-140,0)]
+DIMENSIONS= [(0, 0), (-20, 0), (-40, 0)]
 UP=90
 DOWN=270
 RIGHT=0
